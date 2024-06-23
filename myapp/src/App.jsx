@@ -12,7 +12,7 @@ function App() {
     
    <>
     <Login/>
-    <h2>Register</h2>
+    <h1>Register</h1>
     <Register/>
   
    
